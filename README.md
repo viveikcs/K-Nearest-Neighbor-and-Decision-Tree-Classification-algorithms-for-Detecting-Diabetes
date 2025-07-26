@@ -44,6 +44,15 @@ The repository includes the .ipynb file, .csv file (Dataset), and README.md file
 - Precision
 - ROC Curve
 
+**RESULTS**
+
+| Model | Accuracy | Precision |
+| ----- | -------- | --------- |  
+|  KNN  |   71%    |    76%    |
+|  DT   |   67%    |    72%    |
+
+The KNN model showed greater Accuracy and Precision in predicting Diabetes, compared to the DT model.
+
 **HOW TO RUN**
 
 1. Clone the repository or download the .ipynb file.
