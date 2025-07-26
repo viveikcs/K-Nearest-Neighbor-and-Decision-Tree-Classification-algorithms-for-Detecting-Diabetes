@@ -41,7 +41,6 @@ The repository includes the .ipynb file, .csv file (Dataset), and README.md file
 - Accuracy
 - Sensitivity
 - Specificity
-- Precision
 - ROC Curve
 
 **RESULTS**
