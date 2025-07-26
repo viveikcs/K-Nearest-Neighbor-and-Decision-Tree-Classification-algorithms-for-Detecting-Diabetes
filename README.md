@@ -2,7 +2,7 @@
 
 **DESCRIPTION**
 
-Applying and analyzing the performance of two Machine Learning (ML) classification algorithms - K-Nearest Neighbor (KNN) and Decision Tree (DT) algorithms - in predicting likelihood of diabetes from a dataset containing contained 9 parameters (8 features, and 1 target variable) for a total of for 770 people. 
+Applying and analyzing the performance of two Machine Learning (ML) classification algorithms - K-Nearest Neighbor (KNN) and Decision Tree (DT) algorithms - in predicting likelihood of diabetes from a dataset containing 9 parameters (8 features, and 1 target variable) for a total of for 770 people. 
 
 **OBJECTIVE**
 
@@ -32,7 +32,17 @@ The repository includes the .ipynb file, .csv file (Dataset), and README.md file
 
 **EVALUATION METRICS**
 
-Heatmap, Gini index, Precision, Recall, F1-Score, Confusion matrix, Accuracy, Sensitivity, Specificity, Precision, ROC Curve
+- Heatmap
+- Gini index
+- Precision
+- Recall
+- F1-Score
+- Confusion matrix
+- Accuracy
+- Sensitivity
+- Specificity
+- Precision
+- ROC Curve
 
 **HOW TO RUN**
 
