@@ -61,5 +61,9 @@ The KNN model showed greater Accuracy and Precision in predicting Diabetes, comp
 
 **ACKNOWLEDGMENTS**
 
-- Kaggle communitY
+- Kaggle community
 - Scikit-learn documentation
+
+**CONTACT**
+
+Feel free to reach out: viveikcs@gmail.com
