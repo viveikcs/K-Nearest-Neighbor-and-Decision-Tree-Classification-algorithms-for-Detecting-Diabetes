@@ -1,4 +1,4 @@
-# K-Nearest Neighbor (KNN) and Decision Tree (DT) Classification algorithms for Detecting Diabetes
+# **K-Nearest Neighbor (KNN) and Decision Tree (DT) Classification algorithms for Detecting Diabetes**
 
 ## **DESCRIPTION**
 
