@@ -1,10 +1,10 @@
 # **K-Nearest Neighbor (KNN) and Decision Tree (DT) Classification algorithms for Detecting Diabetes**
 
-#### **DESCRIPTION**
+### **DESCRIPTION**
 
 Applying and analyzing the performance of two Machine Learning (ML) classification algorithms - K-Nearest Neighbor (KNN) and Decision Tree (DT) algorithms - in predicting likelihood of diabetes from a dataset containing 9 parameters (8 features, and 1 target variable) for a total of for 770 people. 
 
-**OBJECTIVE**
+### OBJECTIVE
 
 To develop and compare ML classification models (DT and KNN) that predict the likelihood of diabetes based on patient health data.
 
